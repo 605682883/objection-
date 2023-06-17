@@ -1,0 +1,5 @@
+https://blog.csdn.net/freeking101/article/details/107749541 frida教程
+
+objection
+android shell 执行 getprop ro.product.cpu.abi 可以看到系统版本，然后下载对应版本的frida-server-android
+android sslpinning disable 屏蔽ssl证书验证，可以抓包
